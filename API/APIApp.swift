@@ -9,6 +9,8 @@ import SwiftUI
 
 @main
 struct APIApp: App {
+    // var sharedViewModel = PokemonListViewModel()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
